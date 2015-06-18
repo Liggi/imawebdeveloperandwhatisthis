@@ -6,10 +6,10 @@ way that is both human and machine readable.
 
 It looks like this:
 
-  <div class="container">
-    <h1>Hello, world!</h1>
-    <p>This is an extremely basic example of an HTML document.</p>
-  </div>
+    <div class="container">
+      <h1>Hello, world!</h1>
+      <p>This is an extremely basic example of an HTML document.</p>
+    </div>
 
 In the example above, a "div" (a container unit) is defined with a class
 of "container". This class can be (almost) anything, and is commonly used as a
